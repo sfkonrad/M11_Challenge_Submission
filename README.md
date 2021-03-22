@@ -10,9 +10,6 @@ UCB-VIRT-FIN-PT-12-2020-U-B-TTH
 
 In this challenge, we assume the roles of growth analysts at [MercadoLibre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. We've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. Therefore, we must determine whether the ability to predict search traffic can translate into the ability to successfully trade the corresponding stock.
 
-![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/search_trends_wk_of_yr.jpg)
-
-Instructions
 
 We were tasked with completing four steps and an optional fifth step, as follows:
 
@@ -34,13 +31,11 @@ The following subsections detail these steps.
 
 ## Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 
-The data science manager asks if the Google search traffic for the company links to any financial events at the company. Or, does the search traffic data just present random noise? To answer this question, pick out any unusual patterns in the Google search data for the company, and connect them to the corporate financial events.
-
-To do so, complete the following steps:
-
-1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results.) Use hvPlot to visualize the results. Do any unusual patterns exist?
-
-2. Calculate the total search traffic for the month, and then compare the value to the monthly median across all months. Did the Google search traffic increase during the month that MercadoLibre released its financial results?
+The data science manager asks if the Google search traffic for the company links to any financial events at the company. Or, does the search traffic data just present random noise? To answer this question, we identify any unusual patterns in the Google search data for the company, and connect them to the corporate financial events.
+> To do so, we completed the following steps:
+> 1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results.) Use hvPlot to visualize the results. Determine whther any unusual patterns exist.
+> 2. We calculated the total search traffic for the month, then compared the value to the monthly median across all months. Google search traffic did increase during the month that MercadoLibre released its financial results.
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/search_trends_wk_of_yr.jpg)
 
 ## Step 2: Mine the Search Traffic Data for Seasonality
 
