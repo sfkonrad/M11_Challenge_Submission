@@ -86,7 +86,7 @@ A few weeks after our initial analysis, the finance group follows up to find out
 
 Specifically, the finance group wants a forecast of the total sales for the next quarter. This will dramatically increase their ability to plan budgets and to help guide expectations for the company investors.
 
-To do so, we complete the following steps:
+> To do so, we complete the following steps:
 > 1. Read in the daily historical sales (that is, revenue) figures, and then apply a Prophet model to the data.
 > 2. Interpret the model output to identify any seasonal patterns in the company's revenue. For example, what are the peak revenue days? (Mondays? Fridays? Something else?)
 > 3. Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
