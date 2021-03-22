@@ -1,6 +1,7 @@
-### [M11_Challenge_Submission](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/M11g_Challenge_KonradK_forecasting_net_prophet.ipynb)
-### Konrad Kozicki
-### UCB-VIRT-FIN-PT-12-2020-U-B-TTH
+**[M11_Challenge_Submission](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/M11g_Challenge_KonradK_forecasting_net_prophet.ipynb)**
+Konrad Kozicki
+UCB-VIRT-FIN-PT-12-2020-U-B-TTH
+
 ---
 # [Forecasting Net Prophet](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/M11g_Challenge_KonradK_forecasting_net_prophet.ipynb)
 ![image](https://miro.medium.com/max/2400/1*BVIwEoE5oEmHJU8XbV_mKA.png)
