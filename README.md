@@ -14,7 +14,7 @@ In this challenge, we assume the roles of growth analysts at [MercadoLibre](http
 
 Instructions
 
-This section divides the instructions for this Challenge into four steps and an optional fifth step, as follows:
+We were tasked with completing four steps and an optional fifth step, as follows:
 
 * Step 1: Find unusual patterns in hourly Google search traffic
 
@@ -27,6 +27,10 @@ This section divides the instructions for this Challenge into four steps and an 
 * Step 5 (optional): Forecast revenue by using time series models
 
 The following subsections detail these steps.
+
+---
+---
+---
 
 ## Step 1: Find Unusual Patterns in Hourly Google Search Traffic
 
