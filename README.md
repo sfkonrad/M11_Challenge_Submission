@@ -78,7 +78,7 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
     * Which day of the week gets the most search traffic?
     * What's the lowest point for search traffic in the calendar year?
 
-![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-3.0_stock_volatility.jpg
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-4.0_forecast.jpg)
 
 ---
 
