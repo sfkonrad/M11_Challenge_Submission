@@ -93,8 +93,8 @@ Specifically, the finance group wants a forecast of the total sales for the next
 > 3. Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
 
 Q3-2020 Revenue Pojections: 
->>>>> ##### worst case:      $887,525,372 
->>>> ### MOST LIKELY Q3-2020 Revenue:        $ 969,572,683
->>>>> ##### best case:       $1,051,650,789
+> Worst Case:      $887,525,372 
+> **MOST LIKELY Q3-2020 Revenue:        $ 969,572,683**
+> Best Case:       $1,051,650,789
 
 ![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-5.1_daily_revenue.jpg)
