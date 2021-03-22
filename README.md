@@ -4,7 +4,6 @@ Konrad Kozicki
 
 UCB-VIRT-FIN-PT-12-2020-U-B-TTH
 
----
 # [Forecasting Net Prophet](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/M11g_Challenge_KonradK_forecasting_net_prophet.ipynb)
 ![image](https://miro.medium.com/max/2400/1*BVIwEoE5oEmHJU8XbV_mKA.png)
 
@@ -25,7 +24,6 @@ We were tasked with completing four steps and an optional fifth step, as follows
 
 The following subsections detail these steps.
 
----
 ---
 ---
 
@@ -69,7 +67,7 @@ You mention your work on the search traffic data during a meeting with people in
 
 ## Step 4: Create a Time Series Model with Prophet
 
-Now, you need to produce a time series model that analyzes and forecasts patterns in the hourly search data. 
+Next, we produced a time series model that analyzes and forecasts patterns in the hourly search data. 
 > To do so, we completed the following steps:
 > 1. Set up the Google search data for a Prophet forecasting model.
 > 2. After estimating the model, we plot the forecast to identify the near-term forecast for the popularity of MercadoLibre.
