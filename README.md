@@ -40,15 +40,11 @@ The data science manager asks if the Google search traffic for the company links
 
 ## Step 2: Mine the Search Traffic Data for Seasonality
 
-Marketing realizes that they can use the hourly search data, too. If they can track and predict interest in the company and its platform for any time of day, they can focus their marketing efforts around the times that have the most traffic. This will get a greater return on investment (ROI) from their marketing budget.
-
-To that end, you want to mine the search traffic data for predictable seasonal patterns of interest in the company. To do so, complete the following steps:
-
-1. Group the hourly search data to plot the average traffic by the day of the week (for example, Monday vs. Friday).
-
-2. Using hvPlot, visualize this traffic as a heatmap, referencing the `index.hour` as the x-axis and the `index.dayofweek` as the y-axis. Does any day-of-week effect that you observe concentrate in just a few hours of that day?
-
-3. Group the search data by the week of the year. Does the search traffic tend to increase during the winter holiday period (weeks 40 through 52)?
+Marketing realizes that they can use the hourly search data, too. If they can track and predict interest in the company and its platform for any time of day, they can focus their marketing efforts around the times that have the most traffic. This will get a greater return on investment (ROI) from their marketing budget. To that end, we mined the search traffic data for predictable seasonal patterns of interest in the company. 
+> To do so, we completed the following steps:
+> 1. Group the hourly search data to plot the average traffic by the day of the week (for example, Monday vs. Friday).
+> 2. Using hvPlot, visualize this traffic as a heatmap, referencing the `index.hour` as the x-axis and the `index.dayofweek` as the y-axis. Does any day-of-week effect that you observe concentrate in just a few hours of that day?
+> 3. Group the search data by the week of the year. Determine whether the search traffic has a tendancy to increase during the winter holiday period (weeks 40 through 52).
 
 ## Step 3: Relate the Search Traffic to Stock Price Patterns
 
