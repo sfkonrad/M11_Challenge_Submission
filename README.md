@@ -36,7 +36,7 @@ The data science manager asks if the Google search traffic for the company links
 > 1. Read the search data into a DataFrame, and then slice the data to just the month of May 2020. (During this month, MercadoLibre released its quarterly financial results.) Use hvPlot to visualize the results. Determine whther any unusual patterns exist.
 > 2. We calculated the total search traffic for the month, then compared the value to the monthly median across all months. Google search traffic did increase during the month that MercadoLibre released its financial results.
 
-![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/hourly_search_trends_day_of_wk.jpg)
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-2.2_hourly_search_trends_day_of_wk.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Marketing realizes that they can use the hourly search data, too. If they can tr
 > 2. Using hvPlot, visualize this traffic as a heatmap, referencing the `index.hour` as the x-axis and the `index.dayofweek` as the y-axis. Does any day-of-week effect that you observe concentrate in just a few hours of that day?
 > 3. Group the search data by the week of the year. Determine whether the search traffic has a tendancy to increase during the winter holiday period (weeks 40 through 52).
 
-![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/search_trends_wk_of_yr.jpg)
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-3.1_search_trends_wk_of_yr.jpg)
 
 ---
 
@@ -63,7 +63,7 @@ You mention your work on the search traffic data during a meeting with people in
 >    * “Hourly Stock Return”, which holds the percent change of the company's stock price on an hourly basis
 > 4. Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
-
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-3.0_stock_volatility.jpg)
 
 ---
 
@@ -78,7 +78,7 @@ Now, you need to produce a time series model that analyzes and forecasts pattern
     * Which day of the week gets the most search traffic?
     * What's the lowest point for search traffic in the calendar year?
 
-
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-3.0_stock_volatility.jpg
 
 ---
 
@@ -92,3 +92,5 @@ To do so, we complete the following steps:
 > 1. Read in the daily historical sales (that is, revenue) figures, and then apply a Prophet model to the data.
 > 2. Interpret the model output to identify any seasonal patterns in the company's revenue. For example, what are the peak revenue days? (Mondays? Fridays? Something else?)
 > 3. Produce a sales forecast for the finance group. Give them a number for the expected total sales in the next quarter. Include the best- and worst-case scenarios to help them make better plans.
+
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-5.1_daily_revenue.jpg)
