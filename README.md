@@ -94,7 +94,9 @@ Specifically, the finance group wants a forecast of the total sales for the next
 
 Q3-2020 Revenue Pojections: 
 > Worst Case:      $887,525,372 
+> >
 > **MOST LIKELY Q3-2020 Revenue:        $ 969,572,683**
+>
 > Best Case:       $1,051,650,789
 
 ![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-5.1_daily_revenue.jpg)
