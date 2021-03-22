@@ -61,7 +61,7 @@ You mention your work on the search traffic data during a meeting with people in
 >    * “Hourly Stock Return”, which holds the percent change of the company's stock price on an hourly basis
 > 4. Review the time series correlation, and then answer the following question: Does a predictable relationship exist between the lagged search traffic and the stock volatility or between the lagged search traffic and the stock price returns?
 
-![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/part-3.0_stock_volatility.jpg)
+![image](https://github.com/sfkonrad/M11_Challenge_Submission/blob/main/M11_Challenge_Submission/Documentation/Images/trends_v_close.jpg)
 
 ---
 
